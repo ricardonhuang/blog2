@@ -26,7 +26,6 @@ manager.add_command("db", MigrateCommand)
 @manager.shell
 def make_shell_context():
     """Create a python CLI.
-
     return: Default import object
     type: `Dict`
     """
