@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//auth/__init__.py=utf-8
+encoding//auth/forms.py=utf-8
+encoding//auth/views.py=utf-8
+encoding//main/forms.py=utf-8
+encoding//main/views.py=utf-8
+encoding/config.py=utf-8
+encoding/ext_bcrypt.py=utf-8
+encoding/fake_data.py=utf-8
+encoding/head.py=utf-8
+encoding/manage.py=utf-8
+encoding/models.py=utf-8
